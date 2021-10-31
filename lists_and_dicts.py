@@ -8,7 +8,7 @@ def run():
 
     # Acceder a los diccionarios usando índices de las listas
     # for i in list:
-    #      (i['pokemon'], ':', i['type'])
+    #     (i['pokemon'], ':', i['type'])
 
     #Acceder a los diccionarios usando el método items
     for i in list:
